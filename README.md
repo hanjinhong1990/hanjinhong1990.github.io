@@ -1,14 +1,15 @@
 <html>
 <head>
   <style type="text/css">
-    .a{background:red;width:1024px;height:100px;}
+    .a{background:red;width:1000px;height:100px;}
+    .b{background:red;width:1600px;height:1000px;}
   </style>
 </head>
   <body> 
     <div class="a">
       欢迎来到我的主页hello
       </div>
-    <div>
+    <div class="b">
       <h3>前端基础知识：这是我的第一个网页，最近在学前端，首先把这些html,css,javaScipt基础的知识学精通，然后再去学Html5,css3,Jquery,BootStrap,MVC、MVVM，Swiper,ES6、、7、8、9，</h3>
       <h3>前端框架：Vue（Vue,Vue-Router,Vuex,Axios,） React(React,React-Riouter,React-Redux,React-Saga,DvaJS,UmiJS)  Angular</h3>
       <h5>Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。另一方面，当与现代化的工具链以及各种支持类库结合使用时，Vue 也完全能够为复杂的单页应用提供驱动。</h5>
