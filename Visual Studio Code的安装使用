@@ -1,0 +1,6 @@
+前端的编辑器有好几个，比如Sublime Text,DreamWeaver,Visual Studio Code,WebStorm等等，这里只简单介绍一下visual studio code也就是人们经常说的VScode。
+在网上下载VSCode前端编辑器，下载地址：https://vscode.en.softonic.com，https://pc.qq.com/detail/16/detail_22856.html，这几个都行，只要是最新版本的就行。
+我目前使用的是VSCode1.51.0版本的。
+然后安装，一般都安装到D盘等，在安装过程中，会出现一个选项：添加到PATH（重启后生效）。这个歌勾选，意思是不用配置环境变量，就可以直接使用。
+安装完成后，打开Visual Studio Code，new file新建文件,新建一个HTML文件，编辑一个hello world，然后在搜索框搜索open in browser并安装，接着就可以右键运行Open in default browser编辑的html文件了。
+当你安装的是英文版的时候，如果看着别扭，可以在搜索框搜索Chinese (Simplified) Language Pack for Visual Studio Code并安装，然后重新运行VSCode就会发现界面是中文了。
