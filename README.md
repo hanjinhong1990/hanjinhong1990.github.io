@@ -1,5 +1,8 @@
 <html>
 <head>
+  <title>我的第一个网页</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <style type="text/css">
     .a{background:red;width:1000px;height:100px;}
     .b{background:red;width:1600px;height:1000px;}
