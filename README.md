@@ -10,7 +10,7 @@
 </head>
   <body> 
     <div class="a">
-      欢迎来到我的主页hello
+      <h3>欢迎来到我的主页,helloworld,我会一直努力学好前端</h3>
       </div>
     <div class="b">
       <h3>前端基础知识：这是我的第一个网页，最近在学前端，首先把这些html,css,javaScipt基础的知识学精通，然后再去学Html5,css3,Jquery,BootStrap,MVC、MVVM，Swiper,ES6、、7、8、9，</h3>
@@ -21,6 +21,4 @@
       <h3>前后端交互：Ajax,Nodejs,Express,Koa2,MySQL</h3>
     </div>
   </body>
-  
- 
 </html>
