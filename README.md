@@ -2,6 +2,9 @@
 <head>
   <title>我的第一个网页</title>
   <meta charset="utf-8">
+  <meta charset="GBK">
+  <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <style type="text/css">
     .a{background:red;width:1000px;height:100px;}
@@ -11,7 +14,7 @@
   <body> 
     <div class="a">
       <h3>欢迎来到我的主页,helloworld,我会一直努力学好前端</h3>
-      </div>
+     </div>
     <div class="b">
       <h3>前端基础知识：这是我的第一个网页，最近在学前端，首先把这些html,css,javaScipt基础的知识学精通，然后再去学Html5,css3,Jquery,BootStrap,MVC、MVVM，Swiper,ES6、、7、8、9，</h3>
       <h3>前端框架：Vue（Vue,Vue-Router,Vuex,Axios,） React(React,React-Riouter,React-Redux,React-Saga,DvaJS,UmiJS)  Angular</h3>
